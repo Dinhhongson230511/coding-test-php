@@ -52,15 +52,18 @@ The application should now be accessible at http://localhost:34251
 ### Authentication
 
 pls login with the credentials below:
+
+```
 user: admin@admin.com
 password: Admin1@
+```
 
 TODO: pls summarize how to check "Authentication" bahavior
 
 ******** Authentication ********
-I'm using cakephp Authentication Plugin to implement user login
-Link: https://book.cakephp.org/4/en/tutorials-and-examples/cms/authentication.html
-the steps are:
+- I'm using cakephp Authentication Plugin to implement user login
+- Link: https://book.cakephp.org/4/en/tutorials-and-examples/cms/authentication.html
+- The steps are:
 1. Install the Plugin
 2. Load the Plugin and Configuration
 3. User Entity
