@@ -70,11 +70,11 @@ TODO: pls summarize how to check "Authentication" bahavior
 4. Middleware
 5. Authorization and Session Handling
 
-to handle Token-Based Authentication I have combined with library firebase/php-jwt
-Link:
+- To handle Token-Based Authentication I have combined with library firebase/php-jwt
+- Link:
     - https://github.com/firebase/php-jwt
     - https://book.cakephp.org/authentication/2/en/authenticators.html#jwt
-if you want how I handled it, pls go to src/Aplication.php and Api/UsersController.php for detail
+- If you want how I handled it, pls go to src/Aplication.php and Api/UsersController.php for detail
 
 ### Article Management
 
