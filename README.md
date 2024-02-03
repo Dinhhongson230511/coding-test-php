@@ -47,6 +47,12 @@ bin/cake migrations seed
 
 The application should now be accessible at http://localhost:34251
 
+### Postman Collection
+
+```
+interview.postman_collection.json
+```
+
 ## How to check
 
 ### Authentication
